@@ -7,11 +7,17 @@ I am a backend developer who is interested in python/golang and building out tes
 - SpaceTraders python sdk
 - grpc vs rabbitMQ vs Kafka in low network situations (TODO)
 
-#### Clonable boilerplates:
+### Clonable boilerplates:
 - A project set up with docker (https://github.com/jeffreywu1996/sample-docker-project)
 - A project using fastapi and postgres (https://github.com/jeffreywu1996/fastapi-postgres)
 - A sample of using semantic release for your project (https://github.com/jeffreywu1996/semantic-release-example)
 - A python job scheduler (https://github.com/jeffreywu1996/sample-scheduler)
+
+### Useful Tools
+#### grpc
+- grpc UI - Postman like UI to interact with grpc requests (https://github.com/fullstorydev/grpcui)
+- grpcurl - curl like command to interact with grpc requests (https://github.com/fullstorydev/grpcurl)
+
 
 <!--
 **jeffreywu1996/jeffreywu1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
