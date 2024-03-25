@@ -17,6 +17,9 @@ I am a backend developer who is interested in python/golang and building out tes
 - A full text search engine (https://github.com/jeffreywu1996/Full-Text-Search-Engine)
 - A books app CRUD (https://github.com/jeffreywu1996/books-app)
 
+### Python projects
+- A barista microservice using fastapi and rabbitmq (https://github.com/jeffreywu1996/barista-order-service)
+
 ### Useful Tools
 #### grpc
 - grpc UI - Postman like UI to interact with grpc requests (https://github.com/fullstorydev/grpcui)
