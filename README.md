@@ -16,6 +16,7 @@ I am a backend developer who is interested in python/golang and building out tes
 ### Golang projects
 - A full text search engine (https://github.com/jeffreywu1996/Full-Text-Search-Engine)
 - A books app CRUD (https://github.com/jeffreywu1996/books-app)
+- A social media app to match users and share thoughts (https://github.com/UCSD-Socially-Dead-Organization/tree-hole-backend)
 
 ### Python projects
 - A barista microservice using fastapi and rabbitmq (https://github.com/jeffreywu1996/barista-order-service)
